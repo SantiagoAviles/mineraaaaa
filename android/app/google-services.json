@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "463075629322",
+    "firebase_url": "https://minerapresilogin-default-rtdb.firebaseio.com",
+    "project_id": "minerapresilogin",
+    "storage_bucket": "minerapresilogin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463075629322:android:c687bf33905d11fdb142f3",
+        "android_client_info": {
+          "package_name": "com.example.mineralogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9feAFdVAcQEj66HJwG0ekrYAPjjJYCkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
